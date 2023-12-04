@@ -1,5 +1,5 @@
 # judyli
-<h1 align="center">Hello, I'm Judy Li</h1>
+<h1 align="center">Hello! I'm Judy Li 🥰 </h1>
 - 🔭 I’m currently working on **Python**
 
 - ✅ I’m currently learning **Machine Learning**
